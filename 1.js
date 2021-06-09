@@ -6,4 +6,4 @@
  * @Description: In User Settings Edit
  * @FilePath: \-1\1.js
  */
-console.log("你好");
+console.log("你好啊");
